@@ -1,3 +1,4 @@
+ /*NAVIGATION BAR CSS*/
 #main-navbar {
 background-color: blue;
 overflow: hidden;
@@ -32,7 +33,7 @@ display: block;
 #main-navbar ul li a:hover{
   background-color: #000;
 }
-
 #onpage {
   text-decoration: underline overline;
 }
+/*SIDE BAR CSS*/
